@@ -12,3 +12,5 @@ During the training organized by AGH, the following subjects were covered:
 - Building a CNN in PyTorch
 - PyTorch Model Optimization
 - Visualizing Feature Maps
+
+![My Image](images/certificatePOWER3.5.jpg)
